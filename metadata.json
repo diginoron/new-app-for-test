@@ -1,0 +1,5 @@
+{
+  "name": "AvalAI Topic Suggester",
+  "description": "An application to generate topic suggestions based on keywords using AvalAI proxy for Gemini.",
+  "requestFramePermissions": []
+}
